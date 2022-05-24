@@ -14,4 +14,9 @@
 - Section 2: Excel 101 -- no new knowledge learned in this section
 - Section 3: Filtering / Sorting - learned 1 trick in filtering.
 - Section 4: Excel Formulas - learned extra approaches to Absolute references.
-- Section 5: Excel Functions -
+- Section 5: Excel Functions - Began putting together final budget project.
+
+### Week 2 (Ending May 28, 2021)
+
+- Section 6: Learned to better use COUNTIFS / SUMIFS / AVERAGEIFS - added to final project.
+- Section 7:
